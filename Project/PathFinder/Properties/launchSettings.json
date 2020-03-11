@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PathFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/Users/alabo/OneDrive/Dokumenty/Tarnica_small.txt AB"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+aa
+->bb
+->aa
+Czas: 8 godzin 0 minut
+Koszt: 8 zł
